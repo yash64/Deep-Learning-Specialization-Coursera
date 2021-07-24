@@ -5,8 +5,8 @@ This repo contains my work done on `Deep Learning Specialization` offered by [de
 1. Neural Networks and Deep Learning
 2. Improving Deep Neural Networks
 3. Structuring ML Projects
-4. Convolutional Neural Networks
-5. Sequence Models
+4. Convolutional Neural Networks (partial)
+5. Sequence Models (yet to complete)
 
 Each course page has notes, weekly programming assignments, datasets used for assignments and supporting files.
 
